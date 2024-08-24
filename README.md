@@ -25,6 +25,10 @@ python3 K3ySpy.py <modo>
 ## 📋 Requisitos
 
 Certifique-se de que você tenha o Python 3.x instalado e as bibliotecas necessárias para executar o K3ySpy.
+Instale as versões exigidas.
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
