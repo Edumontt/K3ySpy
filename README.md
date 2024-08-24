@@ -37,3 +37,15 @@ pip install -r requirements.txt
 Este projeto é destinado apenas para fins educacionais ;).
 
 ---
+---
+## Compilação
+Caso deseje compilar o arquivo recomento utilizar o Nuitka ou pyinstaller.
+
+```bash
+nuitka --standalone --onefile K3ySpy.pyw
+```
+
+
+
+---
+
