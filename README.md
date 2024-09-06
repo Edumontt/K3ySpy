@@ -13,7 +13,7 @@
 python NetCrypt.py <diretório_alvo>
 ```
 2. O servidor ficará aguardando uma conexão do cliente, recebendo a chave AES e o IV, e criptografando arquivos presentes em um diretório especificado.
-
+---
 ### ⚙️ Configuração do Connect
 1. O código cria as chaves AES e IV e envia para o NetCrypt.
 2. Também é escrito no terminal as chaves utilizadas.
@@ -21,6 +21,7 @@ python NetCrypt.py <diretório_alvo>
 ```bash
 python connect.py <host> <porta>
 ```
+---
 ## 📋 Requisitos
 Certifique-se de que você tenha o Python 3.x instalado e as bibliotecas necessárias.
 ```bash
