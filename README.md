@@ -17,7 +17,7 @@
 
 Utilize apenas uma funcionalidade por vez.
 ```bash
-python3 K3ySpy.py <modo>
+python3 K3ySpy.pyw <modo>
 ```
 
 ---
