@@ -18,7 +18,7 @@ python k3yspy.py local
 ```
 ---
 ### `ambos`
-**ambos**: Executa as capturas locais e envia as teclas pela rede.
+**ambos**: Executa as capturas locais e envia as teclas pela rede e localmente.
 ```bash
 python k3yspy.py ambos
 ```
